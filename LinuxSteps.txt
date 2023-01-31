@@ -2,3 +2,13 @@ PWD --> Present working Directory
 $--> Normal User
 # --> root User
 
+/boot -->
+/home -->
+/etc -->
+/var -->
+/dev -->
+
+mkdir
+rmdir
+rm -rf 
+
