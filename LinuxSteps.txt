@@ -1,0 +1,4 @@
+PWD --> Present working Directory
+$--> Normal User
+# --> root User
+
