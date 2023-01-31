@@ -2,3 +2,18 @@ PWD --> Present working Directory
 $--> Normal User
 # --> root User
 
+/boot -->
+/home -->
+/etc -->
+/var -->
+/dev -->
+
+mkdir
+rmdir
+rm -rf 
+
+touch demo.txt
+cat demo.txt
+vi demo.txt
+vim demo.txt
+
