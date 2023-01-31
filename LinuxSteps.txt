@@ -12,3 +12,8 @@ mkdir
 rmdir
 rm -rf 
 
+touch demo.txt
+cat demo.txt
+vi demo.txt
+vim demo.txt
+
